@@ -7,9 +7,9 @@
 ---
 <h3 align="center"><b> Welcome to the journey  👋</b></h3>
 
-<p align="center"> I am a self-taught developer from Seattle. I am still figuring out what I like and how I want to specialize. I have narrowed my interests down to the below projects. Currently, I am proficient in C++ but have dabbled in other languages such as C, Python, Java, Js, and CSS. </p>
+<p align="center"> I am an ambitious coder fresh from BloomTech University looking to crush it in the tech world. I am still figuring out what I like and how I want to specialize. I have narrowed my interests down to the below projects. Currently, I am proficient in Js but have dabbled in other languages such as C++, Python and CSS. </p>
 
-<p align="center"> In general, I enjoy challenging myself and learning new things. But this journey started because technology fascinates me. The depth and breadth of where technology has come (and will go) and how it impacts our life is mind-blowing. And I want to be a part of this. </p>
+<p align="center"> In general, I enjoy challenging myself and learning new things. But this journey started because technology fascinates me, particularly the backend world. The depth and breadth of where technology has come (and will go) and how it impacts our life is mind-blowing. And I want to be a part of this. </p>
 
 <p align="center"> I will add awesome projects soon. </p>
 
@@ -20,28 +20,12 @@
 ---
 <h3 align="center"<b> Projects & Interests </b></h3>
 
-<a href="https://github.com/danielclark00/A.I">
+<a href="https://github.com/ClickAimbot/web-sprint-challenge-adding-data-persistence">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielclark00&repo=A.I&theme=github_dark" />
 </a>
 
 <a href="https://github.com/danielclark00/Robotics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielclark00&repo=Robotics&theme=github_dark" />
-</a>
-
-<a href="https://github.com/danielclark00/Blockchain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielclark00&repo=Blockchain&theme=github_dark" />
-</a>
-
-<a href="https://github.com/danielclark00/Neuromorphic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielclark00&repo=Neuromorphic&theme=github_dark" />
-</a>
-
-<a href="https://github.com/danielclark00/Unreal-Engine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielclark00&repo=Simulation&theme=github_dark" />
-</a>
-
-<a href="https://github.com/danielclark00/Quantum-Computing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielclark00&repo=Quantum-Computing&theme=github_dark" />
 </a>
 
 ---
