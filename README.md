@@ -21,12 +21,9 @@
 <h3 align="center"<b> Projects & Interests </b></h3>
 
 <a href="https://github.com/ClickAimbot/web-sprint-challenge-adding-data-persistence">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielclark00&repo=A.I&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClickAimbot&repo=web-sprint-challenge-adding-data-persistence&theme=github_dark" />
 </a>
 
-<a href="https://github.com/danielclark00/Robotics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielclark00&repo=Robotics&theme=github_dark" />
-</a>
 
 ---
 <h3 align="center"><b> GitHub Stats & Trophy's 🏆</b></h3>
