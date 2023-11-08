@@ -24,7 +24,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClickAimbot&repo=web-sprint-challenge-adding-data-persistence&theme=github_dark" />
 </a>
 
-
+<a href="https://github.com/ClickAimbot/web-sprint-challenge-advanced-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClickAimbot&repo=web-sprint-challenge-advanced-react&theme=github_dark" />
+</a>
 ---
 <h3 align="center"><b> GitHub Stats & Trophy's 🏆</b></h3>
 
