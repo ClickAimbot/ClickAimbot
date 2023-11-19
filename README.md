@@ -20,12 +20,12 @@
 ---
 <h3 align="center"<b> Projects & Interests </b></h3>
 
-<a href="https://github.com/ClickAimbot/web-sprint-challenge-adding-data-persistence">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClickAimbot&repo=web-sprint-challenge-adding-data-persistence&theme=github_dark" />
-</a>
-
 <a href="https://github.com/ClickAimbot/meap_prep">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClickAimbot&repo=meap_prep&theme=github_dark" />
+</a>
+
+<a href="https://github.com/ClickAimbot/web-sprint-challenge-adding-data-persistence">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClickAimbot&repo=web-sprint-challenge-adding-data-persistence&theme=github_dark" />
 </a>
 ---
 <!--
