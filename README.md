@@ -7,7 +7,7 @@
 ---
 <h3 align="center"><b> Welcome to the journey  👋</b></h3>
 
-<p align="center"> I am an ambitious coder fresh from BloomTech University looking to crush it in the tech world. I am still figuring out what I like and how I want to specialize. I have narrowed my interests down to the below projects. Currently, I am proficient in Js but have dabbled in other languages such as C++, and Python. I feel like my strength lies in React and front end development. </p>
+<p align="center"> I am an ambitious coder fresh from BloomTech University looking to crush it in the tech world. I am still figuring out what I like and how I want to specialize. I have narrowed my interests down to the below projects. Currently, I am proficient in JS but have dabbled in other languages such as C++, and Python. I feel like my strength lies in React and front end development. </p>
 
 <p align="center"> In general, I enjoy challenging myself and learning new things. But this journey started because technology fascinates me, particularly the frontend world. The depth and breadth of where technology has come (and will go) and how it impacts our life is mind-blowing. And I want to be a part of this. </p>
 
@@ -16,6 +16,10 @@
 <p align="center"> Follow along as I blog about what I learn. </p>
 
 <p align="center"> If you're interested in any of my work, please reach out, leave a comment, or have suggestions! </p>
+
+<p align="center"> Below is a link to my personal website/portfolio for more indetail about me and my story</p>
+<a href="https://austinsportfolio.tech/"></a>
+
 
 ---
 <h3 align="center"<b> Projects & Interests </b></h3>
