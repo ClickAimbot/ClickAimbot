@@ -23,8 +23,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClickAimbot&repo=meap_prep&theme=github_dark" />
 </a>
 
-<a href="https://github.com/ClickAimbot/web-sprint-challenge-adding-data-persistence">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClickAimbot&repo=web-sprint-challenge-adding-data-persistence&theme=github_dark" />
+<a href="https://github.com/ClickAimbot/https://github.com/ClickAimbot/bitcoin_tracking_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClickAimbot&repo=bitcoin_tracking_app&theme=github_dark" />
 </a>
 
 <a href="https://github.com/ClickAimbot/ai_image_gen">
