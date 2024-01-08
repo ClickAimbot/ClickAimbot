@@ -28,7 +28,7 @@
 </a>
 
 <a href="https://github.com/ClickAimbot/ai_image_gen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClickAimbot&repo=ai_image_gen&theme=github_dark"/>
+  Chat GPT bot Image Creator
 </a>
 ---
 <!--
