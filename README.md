@@ -26,5 +26,9 @@
 <a href="https://github.com/ClickAimbot/web-sprint-challenge-adding-data-persistence">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClickAimbot&repo=web-sprint-challenge-adding-data-persistence&theme=github_dark" />
 </a>
+
+<a href="https://github.com/ClickAimbot/ai_image_gen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClickAimbot&repo=ai_image_gen&theme=github_dark"/>
+</a>
 ---
 <!--
